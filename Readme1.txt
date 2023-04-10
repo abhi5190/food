@@ -1,4 +1,4 @@
-== Theme Name: Food And Restaurant Psd Template
+== Theme Name: Food And Restaurant Psd Template -ok
 
 == Copyright (c) 2016 BootstrapThemes.co
 
